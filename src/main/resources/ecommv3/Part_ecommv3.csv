@@ -1,0 +1,351 @@
+pa_sku_nb,pa_part_nb,pa_description,pa_cat_id,pa_vendor_id,pa_cost_am,pa_price_am
+1001,OG-23340-E,tellus nisi eu orci mauris,7,57,24.30,29.74
+1002,TJ-78812-M,vehicula consequat morbi,16,45,18.22,22.56
+1003,KV-19963-R,quis orci nullam,15,35,13.94,17.09
+1004,AV-41627-O,pellentesque volutpat dui,13,40,22.85,31.89
+1005,LP-73148-T,nulla tempus vivamus,16,71,49.53,57.54
+1006,KA-29657-T,dapibus augue vel accumsan,10,10,29.48,36.36
+1007,DF-22501-Z,tortor id nulla ultrices,7,37,15.47,19.12
+1008,OD-55516-P,mi nulla,11,44,13.10,15.41
+1009,FT-78681-K,nascetur ridiculus mus,1,58,19.32,23.22
+1010,BN-43546-D,lobortis ligula,12,44,35.96,50.22
+1011,MJ-23820-N,lacus at,3,74,48.18,59.74
+1012,ML-78139-G,velit vivamus vel,1,2,28.22,35.99
+1013,GB-27179-Q,sapien urna,13,32,6.89,8.09
+1014,MV-02993-K,felis eu sapien,14,1,47.98,61.89
+1015,KV-41512-L,dictumst aliquam augue quam sollicitudin,14,74,38.36,47.21
+1016,MZ-68917-E,nec molestie sed,14,34,34.96,44.29
+1017,SP-89337-Z,integer pede,10,19,10.45,13.22
+1018,TB-95696-O,dignissim vestibulum,11,32,25.26,32.51
+1019,AY-15602-Q,vel dapibus at diam nam,14,74,10.30,13.27
+1020,KL-29956-X,porta volutpat quam pede,7,9,7.94,10.02
+1021,UE-66006-X,eu felis fusce,12,32,49.38,63.3
+1022,WV-50703-C,adipiscing lorem vitae,13,49,38.51,45.29
+1023,DU-46638-X,natoque penatibus,6,56,18.67,23.16
+1024,JO-29500-C,erat quisque erat eros,7,17,36.03,44.33
+1025,LN-76279-L,odio elementum eu interdum,15,28,13.07,16.79
+1026,YJ-75203-C,at diam nam,15,65,45.62,57.5
+1027,UL-18195-V,posuere cubilia curae nulla dapibus,2,16,45.37,59.27
+1028,SC-45859-B,nisl nunc nisl duis bibendum,12,79,29.59,41.27
+1029,NC-51063-D,integer non velit donec,5,50,23.78,31.03
+1030,AY-76516-N,pede malesuada,5,78,28.22,37.17
+1031,YA-12893-G,justo morbi ut odio,10,66,30.18,35.03
+1032,JW-22290-A,eu sapien,4,49,8.05,10.97
+1033,HK-56441-T,est donec odio justo,1,44,40.88,54.18
+1034,BI-98456-N,aliquet pulvinar sed,7,74,44.41,53.52
+1035,IV-41312-O,porttitor lacus at turpis,14,9,41.68,49.18
+1036,GV-74658-I,fusce consequat nulla nisl nunc,3,54,23.40,28.81
+1037,FP-06337-P,porta volutpat erat quisque,8,6,13.31,18.59
+1038,MH-04221-R,potenti nullam,5,10,39.31,49.44
+1039,GF-63692-O,ligula suspendisse ornare consequat lectus,15,64,31.25,43.26
+1040,KN-70219-W,massa tempor convallis,5,44,24.39,29.94
+1041,WK-86606-C,aliquet at feugiat non pretium,10,57,41.64,55.13
+1042,IQ-08025-R,volutpat eleifend donec ut,16,12,40.60,47.87
+1043,AW-42293-O,massa quis,5,35,8.24,10.79
+1044,NI-52645-H,potenti in,12,31,49.73,67.16
+1045,DL-01619-R,hac habitasse,10,7,34.14,44.93
+1046,DE-77806-W,amet justo morbi ut,2,12,45.46,56.43
+1047,IW-34691-Q,in sagittis,6,1,36.55,47.17
+1048,ME-55078-J,platea dictumst morbi vestibulum velit,5,20,12.02,16.04
+1049,TB-58861-B,tempus sit,10,62,46.99,54.4
+1050,MJ-86655-U,orci pede,11,19,3.58,4.21
+1051,UZ-18667-B,proin eu mi nulla,2,39,2.84,3.71
+1052,UO-95793-I,lectus vestibulum quam sapien,4,1,17.59,21.72
+1053,WX-76499-O,id ligula suspendisse ornare,1,64,5.28,7.03
+1054,CJ-90689-M,tempus semper,2,61,48.05,55.99
+1055,MA-42358-W,ante ipsum,7,37,2.39,2.99
+1056,FM-48393-C,diam erat fermentum justo,12,53,44.75,60.84
+1057,FL-07022-M,velit nec nisi vulputate,10,8,29.87,39.94
+1058,CT-66431-N,sollicitudin ut suscipit a,7,32,46.74,63.84
+1059,HL-60140-F,nulla ultrices aliquet,7,7,47.65,60.85
+1060,FY-06783-I,cum sociis natoque,1,77,18.41,24.46
+1061,HR-27173-M,elementum eu,6,78,22.54,25.99
+1062,ZM-49034-U,cursus vestibulum proin,3,67,5.54,6.84
+1063,TE-18356-A,interdum mauris,5,7,32.21,37.14
+1064,DV-31574-E,magna ac,12,10,20.11,27.84
+1065,TP-63066-W,ultrices enim lorem ipsum,1,31,36.04,45.59
+1066,GH-75014-W,nullam molestie nibh,10,76,34.40,47.36
+1067,LR-49482-W,nisl nunc rhoncus dui vel,13,46,45.53,62.45
+1068,TC-23181-V,praesent id massa,3,13,37.18,48.81
+1069,VL-74080-R,porttitor lorem,1,5,7.05,9.08
+1070,MC-74716-T,non velit nec,14,65,20.09,28.12
+1071,ZQ-06069-O,elit proin,9,65,18.19,22.45
+1072,GW-39140-Q,luctus nec,4,12,42.18,53.3
+1073,AU-70978-O,blandit nam nulla,6,4,22.88,30.81
+1074,RO-37733-G,posuere felis sed,5,22,30.33,39.53
+1075,VS-34162-O,duis at velit eu est,9,14,22.71,27.63
+1076,TG-15317-U,sed magna at nunc commodo,6,35,3.33,4.62
+1077,XY-16771-Q,elit proin interdum,10,49,43.63,54.5
+1078,WS-43317-A,vivamus vestibulum,3,37,34.92,47.24
+1079,UT-22209-Q,nulla tempus,1,37,33.45,41.58
+1080,VY-15491-N,metus arcu adipiscing,6,52,11.60,13.87
+1081,ZT-47635-Y,magna ac,8,43,27.09,32.66
+1082,DR-68925-N,consectetuer adipiscing,1,73,49.15,58.26
+1083,QK-23935-E,non mauris morbi non lectus,4,9,5.04,5.84
+1084,EM-79235-U,sapien iaculis congue vivamus metus,11,68,30.49,35.38
+1085,VD-02131-T,sit amet,1,59,26.78,34.53
+1086,NE-45696-P,libero quis orci nullam,4,44,27.04,36.51
+1087,XT-95002-B,dictumst morbi vestibulum,14,8,18.43,24.49
+1088,SQ-12409-J,imperdiet nullam orci pede venenatis,12,10,17.94,23.06
+1089,IQ-48051-N,est donec odio justo,6,31,41.91,50.74
+1090,JN-50234-A,primis in faucibus,15,21,23.44,30.36
+1091,ID-59496-L,augue luctus tincidunt nulla mollis,1,8,29.93,35.19
+1092,XV-79260-R,fermentum donec ut,7,23,47.13,55.47
+1093,OT-78536-A,urna ut,8,71,8.25,11.12
+1094,WU-54842-H,curae nulla,3,16,38.30,49.87
+1095,AN-18159-Z,suspendisse potenti in eleifend,13,16,42.66,50.5
+1096,BL-51927-A,primis in,8,64,2.97,3.74
+1097,DZ-62146-Z,placerat praesent blandit nam nulla,2,46,4.23,5.22
+1098,JV-38748-W,at lorem integer tincidunt,11,72,41.10,53.84
+1099,AZ-04803-W,amet erat nulla,14,72,35.27,47.42
+1100,SA-66476-K,arcu sed augue aliquam erat,7,6,8.80,11.7
+1101,BK-24228-N,quam sapien,4,50,22.11,27.03
+1102,EH-44452-K,etiam pretium,13,52,6.80,8.12
+1103,MH-41507-U,duis bibendum,7,47,21.21,25.45
+1104,HI-07675-B,magnis dis parturient,3,52,31.58,44.08
+1105,DO-19910-O,tempus vel pede morbi porttitor,15,44,1.62,2.0
+1106,IP-89101-R,diam neque vestibulum,16,40,13.53,16.17
+1107,HM-40385-B,volutpat in,12,19,29.11,38.03
+1108,AU-73017-X,diam cras pellentesque volutpat dui,6,4,19.29,25.16
+1109,AN-94919-S,volutpat in congue etiam,11,47,7.83,9.07
+1110,YI-43631-Q,vulputate ut ultrices vel,8,24,23.85,31.61
+1111,RQ-46907-K,vel augue,6,47,49.13,60.09
+1112,YI-96081-N,morbi vestibulum,7,28,44.94,58.26
+1113,DO-79224-T,orci mauris lacinia sapien quis,1,17,10.55,12.27
+1114,VM-64573-M,amet erat nulla tempus,8,65,40.64,55.15
+1115,ZY-37711-G,lobortis vel dapibus at diam,13,29,38.58,53.24
+1116,BU-06856-M,arcu adipiscing molestie hendrerit,5,49,12.28,17.18
+1117,MW-00725-D,vestibulum ac,6,5,4.07,4.68
+1118,EF-63924-A,cursus vestibulum proin eu mi,3,32,45.72,59.68
+1119,PI-97703-E,pede justo lacinia eget tincidunt,9,79,40.78,54.23
+1120,HA-96844-K,lorem vitae mattis nibh ligula,3,72,16.81,23.08
+1121,UX-37872-R,nec nisi vulputate nonummy maecenas,6,10,48.88,57.24
+1122,FH-53714-S,cubilia curae mauris,9,42,22.97,27.47
+1123,BC-79225-Z,suspendisse potenti cras in purus,13,27,24.60,30.49
+1124,VP-14309-W,vel augue,9,68,2.56,3.26
+1125,AI-42194-E,tincidunt in leo maecenas,3,23,35.47,48.84
+1126,WA-92824-V,volutpat in,6,77,25.45,29.31
+1127,RB-15969-J,et ultrices posuere cubilia,15,6,6.09,8.28
+1128,PD-99153-T,dapibus dolor vel,10,41,10.73,14.47
+1129,KL-06000-R,vehicula consequat,2,74,2.20,2.59
+1130,TQ-08965-U,convallis morbi odio odio,7,78,17.73,24.57
+1131,XD-22521-W,amet nunc viverra,10,73,7.77,9.16
+1132,JR-45531-W,duis consequat dui,7,20,34.98,43.19
+1133,KE-64562-Y,rutrum neque aenean auctor,3,71,14.76,18.09
+1134,CL-02569-G,a libero,2,27,48.70,64.3
+1135,KA-94357-U,eget semper rutrum,3,1,8.38,11.12
+1136,ZX-27542-A,lacinia erat,10,7,29.84,41.53
+1137,NM-02800-H,sit amet nunc viverra,2,33,3.85,4.61
+1138,LA-15232-Q,rutrum nulla,8,16,49.68,68.04
+1139,ZE-27136-V,lorem id,9,12,4.89,6.16
+1140,JE-68786-M,dapibus nulla suscipit ligula in,7,53,13.51,18.69
+1141,OV-67990-P,dapibus nulla suscipit ligula,10,22,22.56,29.98
+1142,RK-27837-Q,maecenas leo odio,1,9,1.78,2.26
+1143,BR-72461-L,luctus et ultrices,10,79,18.13,23.69
+1144,LY-15310-Z,ullamcorper augue a suscipit,11,7,45.37,60.69
+1145,EC-87862-V,magna ac consequat metus sapien,15,24,39.54,46.72
+1146,XP-18737-F,eu sapien cursus vestibulum,8,65,26.79,35.51
+1147,EM-25976-B,maecenas pulvinar lobortis est phasellus,2,37,29.60,35.18
+1148,KQ-97593-L,odio porttitor,11,24,14.16,17.94
+1149,NA-70221-L,sit amet sapien dignissim,10,25,28.88,34.04
+1150,DK-43597-S,nisl nunc,6,73,3.04,3.74
+1151,XA-37038-P,proin eu mi nulla ac,6,37,35.84,46.3
+1152,TN-97245-O,sodales sed tincidunt eu felis,3,69,2.50,3.18
+1153,ST-24993-R,orci luctus,3,54,29.66,38.69
+1154,TW-31667-Z,nulla ac enim,8,77,27.59,35.53
+1155,IV-12969-T,est lacinia nisi,7,29,1.42,1.94
+1156,AT-58938-Z,convallis duis,13,37,11.93,15.5
+1157,DA-79564-G,pellentesque eget nunc donec quis,9,72,31.15,41.57
+1158,VX-18386-X,at velit eu est congue,15,25,8.97,10.68
+1159,EG-05181-E,congue diam,7,17,0.97,1.32
+1160,MJ-37686-J,leo rhoncus sed,15,36,47.88,65.81
+1161,AM-69215-G,tellus nulla,16,50,5.24,6.51
+1162,NK-30373-B,mauris laoreet ut rhoncus aliquet,6,75,1.15,1.55
+1163,LR-21594-R,sodales sed tincidunt eu felis,9,47,13.08,15.57
+1164,NQ-44546-D,in quam,7,76,9.66,12.05
+1165,ZF-47103-F,urna pretium nisl,3,60,12.66,16.31
+1166,RS-59927-I,sit amet consectetuer adipiscing,4,15,16.58,21.2
+1167,BG-43569-H,consequat metus sapien ut,16,59,13.08,16.87
+1168,DS-42804-I,odio in hac habitasse platea,7,65,33.97,46.11
+1169,OM-52714-R,in sagittis dui vel nisl,13,62,6.98,8.03
+1170,CU-73159-G,id massa id nisl,14,14,27.53,35.58
+1171,FD-70840-K,nibh quisque id,1,39,38.43,53.25
+1172,CN-40323-G,eget orci vehicula condimentum,6,28,5.62,6.78
+1173,LO-20288-I,eros elementum pellentesque,14,37,19.40,22.52
+1174,FV-06866-J,arcu libero rutrum,14,55,23.37,29.76
+1175,GD-57511-Z,leo pellentesque,7,17,38.47,53.22
+1176,PK-54328-E,rutrum rutrum neque,4,32,8.19,10.65
+1177,EL-82148-T,augue aliquam,4,37,45.20,55.96
+1178,YZ-28399-Z,vulputate elementum nullam,15,2,32.38,37.82
+1179,PH-31300-S,orci luctus et ultrices,14,62,12.74,16.3
+1180,LY-96315-W,primis in faucibus orci,10,41,22.63,28.85
+1181,SG-98475-N,volutpat dui maecenas tristique,2,34,2.21,3.03
+1182,GS-73332-L,dictumst etiam faucibus cursus urna,16,74,41.34,55.39
+1183,IO-88713-S,donec posuere metus,8,23,15.64,20.72
+1184,IC-03845-M,vulputate luctus cum sociis natoque,16,48,1.71,2.39
+1185,VU-06841-A,venenatis turpis enim,12,54,14.09,19.62
+1186,YL-97660-H,gravida sem,2,6,13.29,15.45
+1187,AX-76941-E,sit amet,5,44,43.99,57.58
+1188,RF-17576-B,ligula pellentesque ultrices phasellus,7,43,46.55,64.43
+1189,HM-22342-G,massa volutpat,5,4,33.35,43.56
+1190,IX-55036-Q,magnis dis,7,7,14.43,17.34
+1191,JV-74231-V,nulla elit ac nulla sed,13,14,28.44,39.52
+1192,KN-22537-G,vestibulum sagittis sapien cum sociis,14,32,39.11,49.11
+1193,YA-25429-L,at nibh in hac habitasse,7,77,35.08,43.49
+1194,IN-32327-Q,velit donec diam neque vestibulum,15,17,4.11,4.87
+1195,LS-38251-C,vel est donec odio,4,80,14.56,17.31
+1196,WQ-28567-J,nisi volutpat eleifend donec ut,9,25,35.95,42.41
+1197,WY-57594-H,orci luctus,10,51,42.45,55.65
+1198,BZ-31751-I,enim blandit mi in,14,38,22.28,28.75
+1199,HS-59327-F,bibendum felis sed interdum,7,2,37.08,46.63
+1200,AW-58481-R,tellus nisi eu orci mauris,4,55,27.28,36.66
+1201,GH-13311-E,faucibus accumsan odio,13,36,11.35,14.51
+1202,VR-84708-T,erat nulla tempus vivamus,16,45,22.06,28.02
+1203,JL-24401-D,tellus nisi,15,8,10.68,13.79
+1204,VG-33951-G,mus vivamus vestibulum,4,56,11.65,14.53
+1205,WN-51369-B,adipiscing elit proin interdum mauris,10,28,24.54,29.76
+1206,UM-50567-X,orci luctus et ultrices,5,6,46.70,58.2
+1207,RE-14332-Y,ultrices vel augue,3,78,26.27,35.34
+1208,CO-09297-O,at feugiat non pretium quis,12,76,49.36,65.48
+1209,RO-31481-Q,ac est lacinia,2,37,20.77,26.2
+1210,JS-21351-L,dis parturient montes nascetur,5,33,43.66,59.01
+1211,VB-88556-K,sit amet nunc,1,28,45.49,58.88
+1212,BX-72653-Y,pulvinar lobortis est phasellus sit,12,42,46.10,63.94
+1213,JG-27713-H,vehicula consequat,2,68,25.64,30.94
+1214,HL-34230-Y,ut nulla sed accumsan felis,8,66,48.48,56.56
+1215,RH-20521-W,in tempor turpis nec euismod,6,57,34.08,45.09
+1216,EC-72296-R,vestibulum ac,16,8,32.73,40.73
+1217,MN-89420-U,vitae mattis nibh ligula,2,18,10.90,14.2
+1218,ZK-14490-T,integer aliquet massa id,10,29,9.28,12.57
+1219,KB-39112-V,dapibus dolor vel,13,56,13.68,18.41
+1220,BJ-41072-E,dictumst maecenas ut massa quis,11,75,35.33,47.1
+1221,UA-54288-Q,eu magna vulputate luctus cum,2,64,47.05,61.15
+1222,BP-40015-A,montes nascetur ridiculus mus etiam,5,63,48.94,60.26
+1223,AV-94124-J,tempus vivamus in felis eu,11,38,21.78,26.41
+1224,AP-70264-I,integer aliquet massa id,9,74,14.41,18.65
+1225,RL-44746-V,praesent blandit nam nulla,15,73,22.86,27.27
+1226,VU-21408-O,pede venenatis non,1,80,31.34,41.78
+1227,GE-74016-U,volutpat in congue,10,72,20.00,24.96
+1228,JQ-71958-A,tortor risus dapibus augue,15,35,7.47,10.06
+1229,LG-17854-B,proin eu mi nulla ac,9,61,39.36,46.0
+1230,QM-64211-Z,luctus et,10,63,19.20,25.87
+1231,CT-25951-Y,id sapien in sapien,8,69,35.32,49.27
+1232,LT-40834-C,integer a nibh in quis,7,6,41.29,57.4
+1233,LI-61192-J,convallis nunc proin,8,56,25.50,30.87
+1234,XF-70462-S,vestibulum ac,3,74,49.52,58.7
+1235,GU-90403-B,pede morbi porttitor,15,55,28.87,34.99
+1236,JV-31021-F,est congue elementum in hac,16,75,22.89,27.62
+1237,MX-32525-N,sit amet justo morbi,8,43,17.19,20.86
+1238,HB-24839-O,ut massa,10,66,16.91,19.69
+1239,CD-39585-K,enim blandit,14,52,33.88,43.73
+1240,XS-05266-E,aliquam sit amet,4,67,4.87,6.04
+1241,NE-99891-L,risus dapibus,16,18,34.96,44.09
+1242,LC-86187-Q,parturient montes nascetur ridiculus mus,7,34,21.10,25.26
+1243,EJ-31045-Z,dictumst etiam faucibus,4,48,30.96,42.42
+1244,BK-58017-U,in lectus,3,30,27.86,34.34
+1245,ES-99149-N,nullam sit,6,51,18.19,24.55
+1246,UP-82435-G,magna vestibulum aliquet ultrices erat,2,8,13.25,18.52
+1247,NG-30528-M,nec nisi vulputate nonummy,16,6,38.42,45.32
+1248,AT-69234-Y,nulla neque,13,2,22.11,28.42
+1249,IG-66095-E,pede morbi porttitor,5,69,12.07,16.66
+1250,RF-31712-Z,orci nullam molestie nibh,12,67,40.74,48.49
+1251,NB-93855-Q,mollis molestie,16,5,25.67,30.27
+1252,HA-37389-N,sem fusce consequat nulla nisl,14,76,3.19,3.84
+1253,PM-24122-P,vestibulum aliquet ultrices erat,2,43,3.38,4.35
+1254,PI-21540-F,mollis molestie lorem quisque ut,4,47,49.62,69.14
+1255,NE-48475-S,augue vestibulum ante ipsum,1,12,36.83,49.79
+1256,DB-75268-Q,nulla suspendisse potenti cras in,10,79,24.79,31.67
+1257,WE-02638-P,velit id,7,60,1.65,1.98
+1258,VG-13614-E,platea dictumst,3,64,16.94,22.6
+1259,IY-39634-K,quisque erat,16,13,25.14,29.82
+1260,XR-76214-O,commodo vulputate justo,4,39,28.73,34.49
+1261,UF-88542-Q,quis lectus suspendisse potenti,13,65,2.77,3.26
+1262,VU-69570-B,eros viverra,8,18,6.99,8.63
+1263,IU-06884-R,volutpat convallis morbi odio,2,67,42.04,51.34
+1264,IG-50899-Y,vulputate ut ultrices vel,15,52,41.58,54.03
+1265,SG-83338-A,pellentesque ultrices phasellus id,9,45,4.31,5.83
+1266,UJ-86705-F,vestibulum velit id pretium iaculis,6,62,42.71,55.08
+1267,NO-82811-B,tortor quis,14,35,8.88,11.8
+1268,HF-48019-W,aliquam non mauris,10,66,8.47,11.03
+1269,UO-86990-P,semper est quam,14,64,21.17,24.91
+1270,BD-22758-J,molestie lorem quisque ut,8,49,21.85,25.83
+1271,YM-90657-F,sapien placerat ante,10,18,41.47,56.87
+1272,CW-66398-R,eu sapien,3,66,7.21,8.74
+1273,VH-84783-V,augue aliquam,9,30,31.58,43.78
+1274,IJ-58060-D,ut massa,15,74,9.53,11.43
+1275,TY-59397-U,cursus urna,1,3,22.38,26.01
+1276,VC-54651-L,consequat lectus in est,11,17,26.07,34.36
+1277,LC-47782-C,sed justo,6,7,47.41,60.97
+1278,HZ-51388-H,accumsan felis,8,30,31.55,39.67
+1279,PL-59064-I,mauris laoreet ut rhoncus aliquet,10,78,45.98,62.04
+1280,LR-91519-P,pretium iaculis justo in hac,9,44,17.34,21.99
+1281,QR-01434-F,habitasse platea dictumst aliquam,3,60,19.95,24.3
+1282,TG-57756-J,ac leo pellentesque,1,69,49.53,66.87
+1283,YM-18567-Z,ligula pellentesque ultrices,6,55,44.47,58.14
+1284,OF-31495-R,orci luctus et ultrices posuere,2,19,37.95,48.91
+1285,LO-21465-E,justo maecenas rhoncus aliquam,13,6,6.34,8.16
+1286,GW-18813-D,molestie nibh,12,73,8.47,10.47
+1287,CZ-90088-J,nonummy integer non velit donec,2,30,5.33,7.07
+1288,FD-50609-O,non ligula pellentesque,10,71,24.91,33.52
+1289,HF-40699-H,dis parturient montes nascetur ridiculus,2,13,43.66,50.88
+1290,AK-64787-W,nunc vestibulum ante,12,57,35.32,46.46
+1291,JC-15109-H,nullam orci pede venenatis,11,59,33.95,46.43
+1292,EC-08045-E,ut odio cras mi,6,59,11.45,15.82
+1293,XR-89715-I,at nibh in hac habitasse,15,63,21.71,27.53
+1294,KN-23709-G,cubilia curae,11,33,40.84,54.65
+1295,RG-53307-Z,sapien quis libero,2,53,3.34,3.99
+1296,FY-98253-E,quam suspendisse,16,50,0.03,0.04
+1297,OG-86589-O,sapien ut,2,58,45.55,55.57
+1298,LT-50584-E,eget eros,5,6,2.08,2.46
+1299,AN-63101-J,blandit nam,1,7,24.01,32.99
+1300,CQ-53553-I,dui luctus rutrum,3,57,0.33,0.45
+1301,LY-53461-A,odio elementum eu interdum,7,17,23.41,30.52
+1302,AY-63424-Q,pede malesuada in,8,29,18.15,23.05
+1303,YC-56911-P,velit donec,9,58,23.41,27.48
+1304,EK-20177-O,aliquet at,3,64,20.70,24.4
+1305,UN-12661-I,egestas metus aenean,14,28,14.00,18.98
+1306,LS-94606-N,posuere metus,8,34,29.10,38.89
+1307,NY-64143-D,vulputate vitae nisl aenean lectus,11,47,24.83,30.22
+1308,ZH-56350-Y,posuere cubilia curae,1,38,14.78,18.62
+1309,ND-02178-Y,ligula vehicula consequat,2,35,37.89,48.93
+1310,ZJ-29295-T,imperdiet sapien urna,15,75,17.05,20.66
+1311,XT-82573-B,luctus et ultrices posuere cubilia,9,75,1.81,2.18
+1312,NX-32437-H,euismod scelerisque,9,20,25.76,34.29
+1313,MB-52751-X,dui luctus,12,58,13.83,15.98
+1314,EN-81322-F,cubilia curae donec,16,21,5.90,6.87
+1315,ZT-88711-D,non lectus aliquam sit amet,6,26,15.41,20.88
+1316,CF-49729-L,turpis enim,15,33,27.02,35.45
+1317,YX-90741-W,mi pede,4,15,36.99,49.15
+1318,WF-61702-A,sapien non mi,7,2,32.62,42.91
+1319,PI-70541-K,amet justo morbi ut odio,14,79,42.10,50.71
+1320,MF-24129-L,aliquam non mauris morbi non,9,11,40.29,49.88
+1321,HZ-54271-Z,nulla tellus,13,3,5.68,7.94
+1322,RU-53882-D,vulputate elementum nullam varius nulla,12,61,41.84,55.94
+1323,LB-79971-H,vestibulum ante,3,68,36.39,43.02
+1324,PQ-85094-C,nulla ac enim in tempor,16,29,46.45,54.32
+1325,CK-03520-A,at nunc commodo,1,72,10.11,12.17
+1326,YR-68846-I,imperdiet et commodo vulputate,11,18,12.04,15.6
+1327,XD-22647-N,orci luctus et ultrices,12,22,32.91,39.06
+1328,SE-08604-N,faucibus orci luctus et,6,60,38.12,51.89
+1329,WB-51367-R,at nulla suspendisse potenti cras,7,67,31.32,38.78
+1330,EO-21932-T,dui maecenas tristique est et,2,64,36.02,50.12
+1331,UM-84205-X,donec semper,2,33,22.90,28.23
+1332,VT-37348-T,ut at dolor quis,10,73,26.75,35.87
+1333,QV-20119-D,id lobortis,2,56,16.41,22.58
+1334,VU-67622-W,magna bibendum imperdiet nullam orci,16,32,31.56,40.04
+1335,NU-21034-Y,convallis nulla neque libero,7,51,37.23,51.24
+1336,ZX-76735-G,fringilla rhoncus mauris enim,9,45,3.90,4.7
+1337,FE-46787-Q,odio in hac,4,40,7.56,8.86
+1338,EM-50778-X,vitae ipsum aliquam non mauris,15,34,21.38,25.03
+1339,ZK-59575-R,ultrices posuere cubilia curae mauris,8,70,39.70,53.22
+1340,TV-72962-J,tellus in sagittis dui,10,67,38.22,45.92
+1341,CI-23135-Y,lobortis sapien sapien,12,39,23.20,28.74
+1342,EX-51860-K,nisl nunc nisl,13,32,27.62,32.4
+1343,PR-95408-K,pede ac,5,23,6.36,7.99
+1344,AE-01999-Q,vestibulum ante ipsum primis in,7,30,24.23,32.37
+1345,NL-93624-C,augue aliquam erat,9,1,46.34,62.96
+1346,PJ-55523-U,vulputate justo in,2,48,4.90,5.96
+1347,IA-81321-U,sed vestibulum,4,35,22.07,27.59
+1348,LZ-59143-I,eget tempus vel pede,14,30,36.07,47.49
+1349,UH-45587-I,consectetuer eget,16,41,19.61,22.68
+1350,MI-22757-B,tortor duis,4,76,19.25,22.84
