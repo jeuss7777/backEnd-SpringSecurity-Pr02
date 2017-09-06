@@ -14,6 +14,7 @@ import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.web.authentication.rememberme.PersistentTokenBasedRememberMeServices;
+import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.validation.BindingResult;
@@ -22,6 +23,7 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.SessionAttributes;
 
 import com.websystique.springmvc.model.User;
@@ -63,7 +65,14 @@ public class AppController {
 		model.addAttribute("loggedinuser", getPrincipal());
 		return "userslist";
 	}
-
+	
+	@RequestMapping(value = "/csrf-token", method = RequestMethod.GET)
+	public @ResponseBody String getCsrfToken(HttpServletRequest request)
+	{
+	    CsrfToken token = (CsrfToken) request.getAttribute(CsrfToken.class.getName());
+	    return token.getToken();
+	}
+	
 	/**
 	 * This method will provide the medium to add a new user.
 	 */
@@ -218,6 +227,7 @@ public class AppController {
 		} else {
 			userName = principal.toString();
 		}
+		System.out.println("userName -> " + userName);
 		return userName;
 	}
 	
